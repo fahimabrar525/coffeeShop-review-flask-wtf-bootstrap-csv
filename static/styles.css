@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+.contain {
+    background-color: #222831;
+    text-align: center;
+    margin: 0;
+    padding: 15%;
+}
+
+.coffee {
+    color: white;
+    font-size: 3rem;
+}
+
+.para {
+    color: grey;
+}
+
+.table{
+    color: white;
+}
+
+.con {
+    background-color: #222831;
+     margin: 0;
+    padding: 15%;
+}
+
+.add {
+    color: white;
+}
